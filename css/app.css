@@ -330,6 +330,9 @@ span.invisible-previewline {
   span {
     font-family: 'Open Sans', sans-serif !important; } }
 
+.quote {
+  background: #ffffe1; }
+
 p.view-online {
   background: #f3f3f3;
   color: #999999;
